@@ -95,9 +95,9 @@ team:
 
 skills-title: Programming Skills
 skills:
-- {name: Python, color: '#fdb157', value: '80%'}
+- {name: Python, color: '#bdecf6', value: '80%'}
 - {name: C++, color: '#9473e6', value: '40%'}
-- {name: Latex, color: '#bdecf6', value: '60%'}
+- {name: LaTex, color: '#fdb157', value: '60%'}
 - {name: Mathematica, color: '#ffbcaa', value: '50%'}
 
 
@@ -116,10 +116,10 @@ experience:
 
 education-title: Education
 education:
-- {name: Marter in Astrophysics, date: '2021', organization: 'Pontificia Universidad Católica de Chile'}
+- {name: Master in Astrophysics, date: '2021', organization: 'Pontificia Universidad Católica de Chile'}
 - {name: Bachelor in Astronomy, date: '2018', organization: 'Pontificia Universidad Católica de Chile'}
-- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
-- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
+# - {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
+# - {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
 
 
 #-------------------------------
